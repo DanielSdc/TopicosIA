@@ -68,7 +68,7 @@ Salida esperada
   - `1_mapa_inicial_coordenadas.html` — visualiza CDs y tiendas.
   - `2_mapa_asignaciones.html` — asignación inicial de tiendas a CDs.
   - `3_mapa_solucion_inicial.html` — recorrido de la solución inicial.
-  - `4_mapa_mejor_solucion.html` — mapa de la mejor solución encontrada (si aplica).
+  - `4_mapa_mejor_solucion.html` — mapa de la mejor solución encontrada.
 - Mensajes en consola con estadísticas del costo de la solución inicial y costo de la mejor solución.
 
 ### Ejemplo de mapas generados

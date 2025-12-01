@@ -2,6 +2,11 @@
 
 Este repositorio contiene una solución completa para la gestión, control y reporte de incidencias de estacionamiento. El sistema integra una aplicación móvil para la captura de evidencias, un servicio de Inteligencia Artificial para el reconocimiento automático de matrículas (ANPR) y un backend robusto para la administración de datos y reglas de negocio.
 
+<div align="center">
+<h2>Video Demo</h2>
+<video src="https://github.com/user-attachments/assets/792cff4c-6e16-4877-88ae-2dca6c77a891" width="400" />
+</div>
+
 ## 📂 Estructura del Proyecto
 
 El sistema se divide en tres módulos principales, cada uno en su propia carpeta:
@@ -80,3 +85,4 @@ Para ejecutar el sistema completo, se recomienda levantar los servicios en el si
     ```
 
 > **Nota:** Asegúrate de configurar las variables de entorno y las credenciales de Firebase en cada proyecto individualmente según sus propios archivos `README.md`.
+
